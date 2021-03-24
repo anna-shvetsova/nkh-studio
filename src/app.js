@@ -81,8 +81,8 @@ function app() {
 
 	return (
 		<div className="app">
-			{/* <BrowserRouter basename='/nkh-studio'> */}
-			<BrowserRouter>
+			<BrowserRouter basename='/nkh-studio'>
+			{/* <BrowserRouter> */}
 				<Switch>
 					{
 						renderRoute(0, true)
