@@ -1,0 +1,27 @@
+.task9 li {
+    display: flex;
+    flex-direction: column;
+}
+
+.task9 button {
+    padding: 10px;
+    border: none;
+    text-align: left;
+}
+
+.task9 button:focus {
+    outline: none;
+}
+
+.task9 button:hover {
+    color: white;
+    background-color: blue;
+}
+
+.task9 li p {
+    text-align: left;
+}
+
+.task9 hr {
+    margin: 0;
+}

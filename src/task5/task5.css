@@ -1,0 +1,7 @@
+.task5 {
+    min-width: 450px;
+}
+
+.task5 .nkh-row li {
+    display: inline-block;
+}

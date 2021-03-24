@@ -1,0 +1,9 @@
+.task2 .nkh-container {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.task2 .nkh-row {
+    display: flex;
+    flex-direction: row-reverse;
+}

@@ -1,0 +1,31 @@
+/* .nkh-li {
+    list-style: none;
+}
+
+.nkh-row {
+    display: flex;
+    flex-direction: row;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.nkh-row-task2 {
+    flex-direction: row-reverse;
+}
+
+.nkh-row-task3 {
+    align-items: center;
+}
+
+.nkh-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.nkh-container-task2 {
+    flex-direction: column-reverse;
+}
+
+h2 {
+    text-align: center;
+} */

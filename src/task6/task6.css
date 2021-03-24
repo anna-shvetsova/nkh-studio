@@ -1,0 +1,11 @@
+.task6 {
+    min-width: 450px;
+}
+
+.task6 .nkh-row li {
+    float: left;
+}
+
+.task6 .nkh-row li:first-child {
+    clear: left;
+}

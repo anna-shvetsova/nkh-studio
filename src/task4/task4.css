@@ -1,0 +1,10 @@
+.task4 .nkh-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.task4 .nkh-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}

@@ -1,0 +1,13 @@
+.task3 .nkh-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.task3 .nkh-container li:last-child {
+    align-self: center;
+}
+
+.task3 .nkh-row {
+    display: flex;
+    flex-direction: row;
+}
